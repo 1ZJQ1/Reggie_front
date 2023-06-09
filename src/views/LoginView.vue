@@ -1,7 +1,7 @@
 <template>
   <div class="login" id="login-app">
     <div class="login-box">
-      <img src="@/images/login/login-l.png" alt="">
+      <img src="@/images/login/1.png" alt="">
       <div class="login-form">
         <div class="login-container">
           <!--
